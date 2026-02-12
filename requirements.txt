@@ -1,6 +1,4 @@
-Flask==3.0.0
-google-generativeai
-python-dotenv
+Flask
 PyMuPDF
 Pillow
 numpy
